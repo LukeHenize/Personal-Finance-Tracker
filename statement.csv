@@ -1,0 +1,20 @@
+Transaction Date,Transaction Amount,Vendor Name,Withdrawal/Deposit,Transaction Type,Balance Change
+2022-10-17,224,Fifth Third,Withdrawal,ATM Withdrawal,-224
+2022-10-17,1000,Fifth Third,Withdrawal,Misc. Withdrawal,-1000
+2022-10-18,24,Adriatico's,Withdrawal,Food/Groceries,-24
+2022-10-20,7,DTix,Withdrawal,Misc. Withdrawal,-7
+2022-10-24,8,Venmo,Withdrawal,ATM Withdrawal,-8
+2022-10-24,1500,Fifth Third,Withdrawal,Misc. Withdrawal,-1500
+2022-10-25,630,Cooper Properties,Withdrawal,Mortgage/Rent,-630
+2022-10-26,5,Venmo,Withdrawal,ATM Withdrawal,-5
+2022-10-26,7,Panda Express,Withdrawal,Food/Groceries,-7
+2022-10-26,10,Target,Withdrawal,Misc. Withdrawal,-10
+2022-10-31,10,Venmo,Withdrawal,ATM Withdrawal,-10
+2022-10-31,19,Lyft,Withdrawal,Misc. Withdrawal,-19
+2022-10-31,38,Schmidt's,Withdrawal,Food/Groceries,-38
+2022-10-31,630,Cooper Properties,Withdrawal,Mortgage/Rent,-630
+2022-11-04,5,Spotify,Withdrawal,Misc. Withdrawal,-5
+2022-10-20,123,Ohio State University,Deposit,Paycheck,123
+2022-10-26,50,Venmo,Deposit,ATM Deposit,50
+2022-10-31,17,Venmo,Deposit,ATM Deposit,17
+2022-11-03,109,Ohio State University,Deposit,Paycheck,109
